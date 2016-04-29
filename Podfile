@@ -1,0 +1,5 @@
+platform :ios, '8.1'
+pod 'SDWebImage', '~>3.7'
+pod 'MJRefresh'
+pod 'MJExtension'
+pod 'pop'
